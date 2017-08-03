@@ -1,0 +1,1118 @@
+{
+  "APP_NAME": {
+    "message": "NAVER Whale"
+  },
+  "BELLI_TUTORIAL_TITLE_MAIN": {
+    "message": "歡迎來到 Belli"
+  },
+  "BELLI_TUTORIAL_TITLE_SUB": {
+    "message": "Mark and easy access"
+  },
+  "BELLI_TUTORIAL_HELP": {
+    "message": ""
+  },
+  "BELLI_TUTORIAL_LOGIN": {
+    "message": " 登入"
+  },
+  "BELLI_TUTORIAL_LOADING": {
+    "message": "讀取中 ..."
+  },
+  "BELLI_TUTORIAL_NEED_LOGIN": {
+    "message": "請登入您的Naver帳號來使用 Belli"
+  },
+  "WELCOME_TITLE_STEP1": {
+    "message": "您想要在 <strong>起始頁</strong> 中加入哪一個 <strong>頁面</strong> 呢 ？ "
+  },
+  "WELCOME_TITLE_STEP2": {
+    "message": "哪一個是您的 <strong>首選</strong> 介面呢 ？ <br>來創造<strong>屬於您的</strong> Whale 吧"
+  },
+  "WELCOME_TITLE_STEP3": {
+    "message": "您希望在哪裡 <strong>執行</strong> 它呢 ？ "
+  },
+  "WELCOME_TITLE_FINAL": {
+    "message": "歡迎來到 Whale ， <br>一個多合一任務的瀏覽器 。 "
+  },
+  "WELCOME_STARTUP_HOMEPAGE": {
+    "message": "首頁"
+  },
+  "WELCOME_STARTUP_NTP": {
+    "message": "新分頁"
+  },
+  "WELCOME_UI_SIDEBAR": {
+    "message": "側邊欄"
+  },
+  "WELCOME_UI_SIDEBAR_LEFT": {
+    "message": "置左"
+  },
+  "WELCOME_UI_SIDEBAR_RIGHT": {
+    "message": "置右"
+  },
+  "WELCOME_UI_SKIN_COLOR": {
+    "message": "顏色"
+  },
+  "WELCOME_ENV_PRIVATE": {
+    "message": "在隱密的 PC"
+  },
+  "WELCOME_ENV_PUBLIC": {
+    "message": "在公用的 PC"
+  },
+  "WELCOME_ENV_PUBLIC_HELP": {
+    "message": "若您選擇了公用電腦 ， 您將會從 NAVER Whale 中自動登出 。 <br>當您關閉視窗時，所有資料與設定將不會保留下來 。 "
+  },
+  "WELCOME_FINAL_MESSAGE": {
+    "message": "在NAVER <strong>Whale</strong> 中 ， 您可以同時執行多項 <strong>多項的</strong> 任務 。 "
+  },
+  "WELCOME_LOGIN": {
+    "message": "登入"
+  },
+  "WELCOME_LOGIN_HELP": {
+    "message": "同步書籤, 歷程與帳號資訊是相當重要的。\n您可以在任何時間與地點使用相同的瀏覽器設定 。 "
+  },
+  "WELCOME_RETRY_SETTINGS": {
+    "message": "再一次設定您的Whale"
+  },
+  "WHALESPACE_TUTORIAL_TITLE": {
+    "message": "Whale Space"
+  },
+  "WHALESPACE_TUTORIAL_SUBTITLE": {
+    "message": "View everything at once without switching tabs"
+  },
+  "WHALESPACE_TUTORIAL_HELP": {
+    "message": ""
+  },
+  "WEBPANEL_TITLE": {
+    "message": "新增Web控制台"
+  },
+  "WEBPANEL_SUBTITLE": {
+    "message": "您想要新增哪一個頁面呢 ？ "
+  },
+  "WEBPANEL_TOPSITES": {
+    "message": "推薦"
+  },
+  "WEBPANEL_URL_PLACEHOLDER": {
+    "message": "在這裡輸入連結"
+  },
+  "WEBPANEL_BUTTON_ADD": {
+    "message": "新增"
+  },
+  "WEBPANEL_BUTTON_ADD_HELP": {
+    "message": "新增網站到Web控制台"
+  },
+  "NTP_FEEDBACK_LINK_TEXT": {
+    "message": "回報"
+  },
+  "NTP_SETTINGS_THEME": {
+    "message": "主題"
+  },
+  "NTP_SETTINGS_WIDGET": {
+    "message": "小工具"
+  },
+  "NTP_SETTINGS_WIDGET_MAIN_TITLE": {
+    "message": "主要工具"
+  },
+  "NTP_SETTINGS_WIDGET_MINI_TITLE": {
+    "message": "迷你工具"
+  },
+  "NTP_SETTINGS_WIDGET_TOPSITE": {
+    "message": "首要網站"
+  },
+  "NTP_SETTINGS_WIDGET_CLOCK": {
+    "message": "時鐘"
+  },
+  "NTP_SETTINGS_WIDGET_CLOCK_DIGITAL": {
+    "message": "數字時鐘"
+  },
+  "NTP_SETTINGS_WIDGET_CLOCK_ANALOG": {
+    "message": "類比時鐘"
+  },
+  "NTP_SETTINGS_WIDGET_WEATHER": {
+    "message": "天氣"
+  },
+  "NTP_SETTINGS_WIDGET_RANKUP": {
+    "message": "關鍵字排行"
+  },
+  "NTP_SETTINGS_WIDGET_DISPLAY": {
+    "message": "顯現小工具"
+  },
+  "NTP_SETTINGS_WIDGET_DISPLAY_ALWAYS": {
+    "message": "總是"
+  },
+  "NTP_SETTINGS_WIDGET_DISPLAY_HOVER": {
+    "message": "滑鼠移到該區域"
+  },
+  "NTP_SETTINGS_THEME_TITLE": {
+    "message": "特色主題"
+  },
+  "NTP_SETTINGS_THEME_NCLOUD": {
+    "message": "NAVER Cloud"
+  },
+  "NTP_SETTINGS_THEME_NCLOUD_HELP": {
+    "message": "在選定的資料夾中設置圖像檔案 (JPG 或 PNG) ， 以用作背景 。 "
+  },
+  "NTP_SETTINGS_THEME_NCLOUD_SELECT": {
+    "message": "選擇資料夾"
+  },
+  "NTP_SETTINGS_THEME_NCLOUD_LOGIN": {
+    "message": "登入 NAVER"
+  },
+  "NTP_SETTINGS_THEME_LOCAL": {
+    "message": "從我的電腦中選擇圖像"
+  },
+  "NTP_SETTINGS_THEME_LOCAL_SELECT": {
+    "message": "選擇檔案"
+  },
+  "NTP_SETTINGS_THEME_LOCAL_HELP": {
+    "message": "按下 [選擇檔案] 的按鈕"
+  },
+  "NTP_SETTINGS_THEME_LOCAL_SELECT_TITLE": {
+    "message": "選擇圖像檔案"
+  },
+  "NTP_SETTINGS_THEME_LOCAL_SELECT_FILETYPE": {
+    "message": "圖像 (JPEG, PNG, GIF)"
+  },
+  "NTP_SETTINGS_THEME_LOCAL_FILE_NOT_FOUND": {
+    "message": "找不到選定的檔案"
+  },
+  "NTP_SETTINGS_THEME_PERIOD": {
+    "message": "更換圖像"
+  },
+  "NTP_SETTINGS_THEME_PERIOD_HOUR": {
+    "message": "每小時"
+  },
+  "NTP_SETTINGS_THEME_PERIOD_DAY": {
+    "message": "每天"
+  },
+  "NTP_SETTINGS_THEME_PERIOD_TAB": {
+    "message": "隨時"
+  },
+  "NTP_SETTINGS_THEME_PERIOD_INFINITE": {
+    "message": "永不"
+  },
+  "NTP_SETTINGS_USE_SYNC": {
+    "message": "優先同步"
+  },
+  "NTP_NCLOUD_TITLE": {
+    "message": "NAVER Cloud"
+  },
+  "NTP_RANKUP_TITLE": {
+    "message": "關鍵字排行"
+  },
+  "NTP_RANKUP_UPDATED": {
+    "message": "at $1"
+  },
+  "NTP_RANKUP_ERROR": {
+    "message": "因暫時性的錯誤導致更新失敗"
+  },
+  "NTP_RANKUP_DAYS": {
+    "message": "一,二,三,四,五,六,日"
+  },
+  "NTP_REGION_EXPLORER_TITLE": {
+    "message": "更換位置"
+  },
+  "NTP_REGION_EXPLORER_SELECT_SUBREGION": {
+    "message": "請選定區域"
+  },
+  "NTP_TOPSITE_TITLE": {
+    "message": "首要網站"
+  },
+  "NTP_TOPSITE_ADD_TITLE": {
+    "message": "新增網站"
+  },
+  "NTP_TOPSITE_ADD_URL_PLACEHOLDER": {
+    "message": "請點擊增加或者輸入連結"
+  },
+  "NTP_TOPSITE_MODIFY": {
+    "message": "修改"
+  },
+  "NTP_TOPSITE_MODIFY_TITLE": {
+    "message": "修改"
+  },
+  "NTP_TOPSITE_MODIFY_URL": {
+    "message": "URL"
+  },
+  "NTP_TOPSITE_MODIFY_NAME": {
+    "message": "名稱"
+  },
+  "NTP_TOPSITE_USER_DEFINED_SITE": {
+    "message": "我的網站"
+  },
+  "NTP_TOPSITE_MENU": {
+    "message": "選單"
+  },
+  "NTP_TOPSITE_DELETE": {
+    "message": "移除"
+  },
+  "NTP_WEATHER_AIR_GOOD": {
+    "message": "很好"
+  },
+  "NTP_WEATHER_AIR_NORMAL": {
+    "message": "普通"
+  },
+  "NTP_WEATHER_AIR_BAD": {
+    "message": "很差"
+  },
+  "NTP_WEATHER_AIR_TERRIBLE": {
+    "message": "糟糕的"
+  },
+  "NTP_WEATHER_AIR_UNKNOWN": {
+    "message": "未知"
+  },
+  "NTP_WEATHER_AIR_UNKNOWN_DESCRIPTION": {
+    "message": "請稍後重試"
+  },
+  "NTP_SEARCH_PLACEHOLDER": {
+    "message": "搜尋"
+  },
+  "NTP_BTN_NCLOUD_SYNC": {
+    "message": "使用該資料夾"
+  },
+  "NTP_BTN_STAY_BLOCKED": {
+    "message": "保持封鎖"
+  },
+  "NTP_BTN_GO_SETTINGS": {
+    "message": "顯示設定"
+  },
+  "NTP_BTN_SELECT": {
+    "message": "選擇"
+  },
+  "NTP_BTN_ADD": {
+    "message": "新增"
+  },
+  "NTP_BTN_CANCEL": {
+    "message": "取消"
+  },
+  "NTP_BTN_CONFIRM": {
+    "message": "Ok"
+  },
+  "NTP_BTN_CONFIRM_NOW": {
+    "message": "現在確認"
+  },
+  "NTP_BTN_CLOSE": {
+    "message": "關閉"
+  },
+  "NTP_BTN_LOGIN": {
+    "message": "登入"
+  },
+  "NTP_BTN_YES": {
+    "message": "Yes"
+  },
+  "NTP_BTN_NO": {
+    "message": "No"
+  },
+  "NTP_ALERT_CLOUD_NO_IMAGES": {
+    "message": "圖像檔案 (JPG or PNG) 不存在 。 <br>請選擇其他資料夾 。 "
+  },
+  "NTP_ALERT_TOPSITE_BLOCKED": {
+    "message": "請先在設定中<br>解除網站的封鎖 。 "
+  },
+  "NTP_ALERT_TOPSITE_DUPLICATED": {
+    "message": "網站已經存在"
+  },
+  "NTP_ALERT_TOPSITE_NOT_ALLOWED": {
+    "message": "連結未能被加入"
+  },
+  "NTP_ALERT_TOPSITE_ADD_SUCCESS": {
+    "message": "新增網站"
+  },
+  "NTP_ALERT_NEED_SIGNIN_FOR_CLOUD": {
+    "message": "使用 Naver Cloud<br>需要先行登入 。 "
+  },
+  "NTP_ALERT_CLOUD_NOT_AUTHORIZED": {
+    "message": "需要使用者的同意<br>要現在確認嗎 ？ "
+  },
+  "NTP_ALERT_CLOUD_INTERNAL_ERROR": {
+    "message": "內部出現錯誤 。 <br>造訪 NAVER Cloud"
+  },
+  "NTP_ALERT_CLOUD_RESOURCE_NOT_FOUND": {
+    "message": "在指定的資料夾中<br>沒能找到圖像檔案 。 <br>請重新選擇資料夾 。 "
+  },
+  "NTP_THEME_UPDATED": {
+    "message": "主題更新"
+  },
+  "EXTENSION_QUICKSEARCH_APPNAME": {
+    "message": "快速搜尋"
+  },
+  "EXTENSION_QUICKSEARCH_MENU_SEARCH": {
+    "message": "快速搜尋"
+  },
+  "EXTENSION_QUICKSEARCH_MENU_TIMELINE": {
+    "message": "加入時間軸"
+  },
+  "EXTENSION_QUICKSEARCH_MENU_TRANSL": {
+    "message": "翻譯"
+  },
+  "EXTENSION_QUICKSEARCH_MENU_SEARCH_CTX": {
+    "message": "選擇文本來快速查詢"
+  },
+  "EXTENSION_QUICKSEARCH_TRANS_PROGRESS": {
+    "message": "正在翻譯 ..."
+  },
+  "EXTENSION_QUICKSEARCH_TRANS_REPLACE": {
+    "message": "覆蓋翻譯文本"
+  },
+  "EXTENSION_QUICKSEARCH_TRANS_MORE":{
+    "message": "展示更多"
+  },
+  "EXTENSION_QUICKSEARCH_TRANS_SRCLANG": {
+    "message": "$1"
+  },
+  "EXTENSION_QUICKSEARCH_TRANS_TARLANG": {
+    "message": "$1"
+  },
+  "EXTENSION_QUICKSEARCH_TRANS_IS_NOT_SUPPORTED_LANGUAGE": {
+    "message": "$1 是不被支援的 。 "
+  },
+  "EXTENSION_QUICKSEARCH_TRANS_NOT_SUPPORTED_LANGUAGE": {
+    "message": "語言未能支援"
+  },
+  "EXTENSION_QUICKSEARCH_TRANS_ERROR": {
+    "message": "出現錯誤"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_AM": {
+    "message": "Amharic"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_AR": {
+    "message": "Arabic"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_HY": {
+    "message": "Armenian"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_AS": {
+    "message": "Assamese"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_AZ": {
+    "message": "Azerbaijani"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_EU": {
+    "message": "Basque"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_BE": {
+    "message": "Belarusian"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_BN": {
+    "message": "Bengali"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_BS": {
+    "message": "Bosnian"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_BG": {
+    "message": "Bulgarian"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_CA": {
+    "message": "Catalan"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_ZHCN": {
+    "message": "Chinese Simplified"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_ZHTW": {
+    "message": "Chinese Traditional"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_HR": {
+    "message": "Croatian"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_CS": {
+    "message": "Czech"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_DA": {
+    "message": "Danish"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_NL": {
+    "message": "Dutch"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_EN": {
+    "message": "English"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_ET": {
+    "message": "Estonian"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_TL": {
+    "message": "Filipino"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_FI": {
+    "message": "Finnish"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_FR": {
+    "message": "French"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_GL": {
+    "message": "Galician"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_KA": {
+    "message": "Georgian"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_DE": {
+    "message": "German"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_EL": {
+    "message": "Greek"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_GU": {
+    "message": "Gujarati"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_IW": {
+    "message": "Hebrew"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_HI": {
+    "message": "Hindi"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_HU": {
+    "message": "Hungarian"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_IS": {
+    "message": "Icelandic"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_IG": {
+    "message": "Igbo"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_ID": {
+    "message": "Indonesian"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_GA": {
+    "message": "Irish"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_IT": {
+    "message": "Italian"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_JA": {
+    "message": "Japanese"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_KN": {
+    "message": "Kannada"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_KK": {
+    "message": "Kazakh"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_KM": {
+    "message": "Khmer"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_RW": {
+    "message": "Kinyarwanda"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_KO": {
+    "message": "Korean"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_KY": {
+    "message": "Kyrgyz"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_LO": {
+    "message": "Lao"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_LV": {
+    "message": "Latvian"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_LT": {
+    "message": "Lithuanian"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_LB": {
+    "message": "Luxembourgish"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_MK": {
+    "message": "Macedonian"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_MS": {
+    "message": "Malay"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_ML": {
+    "message": "Malayalam"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_MT": {
+    "message": "Maltese"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_MR": {
+    "message": "Marathi"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_MN": {
+    "message": "Mongolian"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_NE": {
+    "message": "Nepali"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_NO": {
+    "message": "Norwegian Bokmål"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_NN": {
+    "message": "Norwegian Nynorsk"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_OR": {
+    "message": "Oriya"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_FA": {
+    "message": "Persian"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_PL": {
+    "message": "Polish"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_BR": {
+    "message": "Portuguese"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_PT": {
+    "message": "Portuguese"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_PA": {
+    "message": "Punjabi"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_QU": {
+    "message": "Quechua"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_RO": {
+    "message": "Romanian"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_RU": {
+    "message": "Russian"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_GD": {
+    "message": "Scottish Gaelic"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_SR": {
+    "message": "Serbian"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_SI": {
+    "message": "Sinhala"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_SK": {
+    "message": "Slovak"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_SL": {
+    "message": "Slovenian"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_ES": {
+    "message": "Spanish"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_SW": {
+    "message": "Swahili"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_SV": {
+    "message": "Swedish"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_TA": {
+    "message": "Tamil"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_TE": {
+    "message": "Telugu"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_TH": {
+    "message": "Thai"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_TI": {
+    "message": "Tigrinya"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_TR": {
+    "message": "Turkish"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_UK": {
+    "message": "Ukrainian"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_UR": {
+    "message": "Urdu"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_UG": {
+    "message": "Uyghur"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_UZ": {
+    "message": "Uzbek"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_VI": {
+    "message": "Vietnamese"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_CY": {
+    "message": "Welsh"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_YO": {
+    "message": "Yoruba"
+  },
+  "EXTENSION_QUICKSEARCH_LANG_ZU": {
+    "message": "Zulu"
+  },
+  "EXTENSION_QUICKSEARCH_TUTORIAL_HEADLINE": {
+    "message": "拖曳文字來搜尋答案吧"
+  },
+  "EXTENSION_QUICKSEARCH_TUTORIAL_SUBLINE": {
+    "message": "Whale 快速搜尋"
+  },
+  "EXTENSION_QUICKSEARCH_TUTORIAL_HELP": {
+    "message": ""
+  },
+  "EXTENSION_QUICKSEARCH_TUTORIAL_SEARCH": {
+    "message": "搜尋"
+  },
+  "EXTENSION_QUICKSEARCH_TUTORIAL_SEARCH_PLACEHOLDER": {
+    "message": "輸入關鍵字"
+  },
+  "EXTENSION_PAPAGO_APPNAME": {
+    "message": "Papago for Whale"
+  },
+  "EXTENSION_PAPAGO_LANG_KO": {
+    "message": "韓語"
+  },
+  "EXTENSION_PAPAGO_LANG_EN": {
+    "message": "英語"
+  },
+  "EXTENSION_PAPAGO_LANG_ZHCN": {
+    "message": "中文"
+  },
+  "EXTENSION_PAPAGO_LANG_JA": {
+    "message": "日語"
+  },
+  "EXTENSION_PAPAGO_LANG_ES": {
+    "message": "西班牙語"
+  },
+  "EXTENSION_PAPAGO_LANG_FR": {
+    "message": "法語"
+  },
+  "EXTENSION_PAPAGO_SWITCH_LANG": {
+    "message": "更換語言"
+  },
+  "EXTENSION_PAPAGO_INPUT_PLACEHOLDER": {
+    "message": "在這裡輸入文字來查詢翻譯吧！"
+  },
+  "EXTENSION_PAPAGO_CONTROL_TTS": {
+    "message": "使用TTS來朗讀文字"
+  },
+  "EXTENSION_PAPAGO_CONTROL_COPY": {
+    "message": "複製到剪貼簿"
+  },
+  "EXTENSION_PAPAGO_CONTROL_COPY_DONE": {
+    "message": "已經複製到剪貼簿裡了"
+  },
+  "EXTENSION_PAPAGO_CONTROL_CLEAR": {
+    "message": "清除"
+  },
+  "EXTENSION_PAPAGO_TRANS_PROGRESS": {
+    "message": "翻譯中..."
+  },
+  "EXTENSION_PAPAGO_TRANS_SRCLANG": {
+    "message": "$1"
+  },
+  "EXTENSION_PAPAGO_TRANS_TARLANG": {
+    "message": "$1"
+  },
+  "EXTENSION_PAPAGO_TRANS_ERROR": {
+    "message": "Error Occured"
+  },
+  "EXTENSION_PAPAGO_DICT_SOURCE": {
+    "message": "Source: $1"
+  },
+  "EXTENSION_PAPAGO_TRANS_ERROR_TOO_LONG_TEXT": {
+    "message": "翻譯文字的長度過長"
+  },
+  "EXTENSION_PAPAGO_ERROR_MIC_NOT_FOUND": {
+    "message": "沒有找到麥克風來開啟語音功能"
+  },
+  "EXTENSION_PAPAGO_ERROR_TTS_ALREADY_RUNNING": {
+    "message": "PAPAGO 已經準備好朗讀了"
+  },
+  "TTS_ERROR_GENERAL": {
+    "message": "出錯了！ 請稍後重試 。 "
+  },
+  "TTS_ERROR_PLAYING": {
+    "message": "TTS 正在執行 。 您是否想聽一些其他的呢 ？ "
+  },
+  "TTS_ERROR_TOOLONG": {
+    "message": "文本長度過長 。 包含空白處最多只能填入2000個字元 。 "
+  },
+  "WIDGET_CLOCK_TITLE": {
+    "message": "時鐘"
+  },
+  "WIDGET_CLOCK_TIME_STANDARD": {
+    "message": "標準"
+  },
+  "WIDGET_CLOCK_TIME_SERVICE": {
+    "message": "主機"
+  },
+  "WIDGET_CLOCK_TIME_PC": {
+    "message": "我的電腦"
+  },
+   "WIDGET_CLOCK_HELP": {
+    "message": "顯示您目前所連接的頁面所屬主機的時間。 這再票卷的預購以及註冊申請上是相當有益的。 （ 請注意這不一定代表著標準的時間 。 ） "
+  },
+  "WIDGET_CALC_TITLE": {
+    "message": "計算機"
+  },
+  "WIDGET_CALC_ERROR": {
+    "message": "請確認格式是否正確無誤"
+  },
+  "WIDGET_CALENDAR_TITLE": {
+    "message": "日曆"
+  },
+  "WIDGET_CALENDAR_LUNAR": {
+    "message": "Lunar"
+  },
+  "WIDGET_CONVERT_TITLE": {
+    "message": "單位換算"
+  },
+  "WIDGET_CONVERT_AREA": {
+    "message": "面積"
+  },
+  "WIDGET_CONVERT_AREA_M2": {
+    "message": "m²"
+  },
+  "WIDGET_CONVERT_AREA_A": {
+    "message": "a"
+  },
+  "WIDGET_CONVERT_AREA_HA": {
+    "message": "ha"
+  },
+  "WIDGET_CONVERT_AREA_KM2": {
+    "message": "km²"
+  },
+  "WIDGET_CONVERT_AREA_FT2": {
+    "message": "ft²"
+  },
+  "WIDGET_CONVERT_AREA_YD2": {
+    "message": "yd²"
+  },
+  "WIDGET_CONVERT_AREA_AC": {
+    "message": "ac"
+  },
+  "WIDGET_CONVERT_AREA_PBJA": {
+    "message": "peyongbangja"
+  },
+  "WIDGET_CONVERT_AREA_PYEONG": {
+    "message": "pyeong"
+  },
+  "WIDGET_CONVERT_AREA_DANBO": {
+    "message": "danbo"
+  },
+  "WIDGET_CONVERT_AREA_JEONGBO": {
+    "message": "jeongbo"
+  },
+  "WIDGET_CONVERT_DATA": {
+    "message": "Data"
+  },
+  "WIDGET_CONVERT_DATA_BIT": {
+    "message": "bit"
+  },
+  "WIDGET_CONVERT_DATA_BYTE": {
+    "message": "byte"
+  },
+  "WIDGET_CONVERT_DATA_KB": {
+    "message": "KB"
+  },
+  "WIDGET_CONVERT_DATA_MB": {
+    "message": "MB"
+  },
+  "WIDGET_CONVERT_DATA_GB": {
+    "message": "GB"
+  },
+  "WIDGET_CONVERT_DATA_TB": {
+    "message": "TB"
+  },
+  "WIDGET_CONVERT_DATA_PB": {
+    "message": "PB"
+  },
+  "WIDGET_CONVERT_DATA_EB": {
+    "message": "EB"
+  },
+  "WIDGET_CONVERT_LENGTH": {
+    "message": "Length"
+  },
+  "WIDGET_CONVERT_LENGTH_MM": {
+    "message": "mm"
+  },
+  "WIDGET_CONVERT_LENGTH_CM": {
+    "message": "cm"
+  },
+  "WIDGET_CONVERT_LENGTH_M": {
+    "message": "m"
+  },
+  "WIDGET_CONVERT_LENGTH_KM": {
+    "message": "km"
+  },
+  "WIDGET_CONVERT_LENGTH_INCH": {
+    "message": "inch"
+  },
+  "WIDGET_CONVERT_LENGTH_FT": {
+    "message": "ft"
+  },
+  "WIDGET_CONVERT_LENGTH_YD": {
+    "message": "yd"
+  },
+  "WIDGET_CONVERT_LENGTH_MILE": {
+    "message": "mile"
+  },
+  "WIDGET_CONVERT_LENGTH_JA": {
+    "message": "ja"
+  },
+  "WIDGET_CONVERT_LENGTH_GAN": {
+    "message": "gan"
+  },
+  "WIDGET_CONVERT_LENGTH_JUNG": {
+    "message": "jeong"
+  },
+  "WIDGET_CONVERT_LENGTH_RI": {
+    "message": "ri"
+  },
+  "WIDGET_CONVERT_LENGTH_HERI": {
+    "message": "heri"
+  },
+  "WIDGET_CONVERT_PRESSURE": {
+    "message": "Pressure"
+  },
+  "WIDGET_CONVERT_PRESSURE_ATM": {
+    "message": "ATM"
+  },
+  "WIDGET_CONVERT_PRESSURE_PA": {
+    "message": "PA"
+  },
+  "WIDGET_CONVERT_PRESSURE_HPA": {
+    "message": "HPA"
+  },
+  "WIDGET_CONVERT_PRESSURE_KPA": {
+    "message": "KPA"
+  },
+  "WIDGET_CONVERT_PRESSURE_MPA": {
+    "message": "MPA"
+  },
+  "WIDGET_CONVERT_PRESSURE_MB": {
+    "message": "MB"
+  },
+  "WIDGET_CONVERT_PRESSURE_B": {
+    "message": "B"
+  },
+  "WIDGET_CONVERT_PRESSURE_PSI": {
+    "message": "PSI"
+  },
+  "WIDGET_CONVERT_PRESSURE_HHMG": {
+    "message": "HHMG"
+  },
+  "WIDGET_CONVERT_PRESSURE_MMH2O": {
+    "message": "mmH2O"
+  },
+  "WIDGET_CONVERT_WEIGHT": {
+    "message": "Weight"
+  },
+  "WIDGET_CONVERT_WEIGHT_MG": {
+    "message": "mg"
+  },
+  "WIDGET_CONVERT_WEIGHT_G": {
+    "message": "g"
+  },
+  "WIDGET_CONVERT_WEIGHT_KG": {
+    "message": "kg"
+  },
+  "WIDGET_CONVERT_WEIGHT_T": {
+    "message": "ton"
+  },
+  "WIDGET_CONVERT_WEIGHT_KT": {
+    "message": "kiloton"
+  },
+  "WIDGET_CONVERT_WEIGHT_GR": {
+    "message": "grain"
+  },
+  "WIDGET_CONVERT_WEIGHT_OZ": {
+    "message": "ounce"
+  },
+  "WIDGET_CONVERT_WEIGHT_LB": {
+    "message": "pound"
+  },
+  "WIDGET_CONVERT_WEIGHT_DON": {
+    "message": "don"
+  },
+  "WIDGET_CONVERT_WEIGHT_NYANG": {
+    "message": "nyang"
+  },
+  "WIDGET_CONVERT_WEIGHT_GEUN": {
+    "message": "geun"
+  },
+  "WIDGET_CONVERT_WEIGHT_GWAN": {
+    "message": "gwan"
+  },
+  "WIDGET_CONVERT_VOLUME": {
+    "message": "Volume"
+  },
+  "WIDGET_CONVERT_VOLUME_CC": {
+    "message": "cc"
+  },
+  "WIDGET_CONVERT_VOLUME_ML": {
+    "message": "mℓ"
+  },
+  "WIDGET_CONVERT_VOLUME_DL": {
+    "message": "dℓ"
+  },
+  "WIDGET_CONVERT_VOLUME_L": {
+    "message": "ℓ"
+  },
+  "WIDGET_CONVERT_VOLUME_CM3": {
+    "message": "cm³"
+  },
+  "WIDGET_CONVERT_VOLUME_M3": {
+    "message": "m³"
+  },
+  "WIDGET_CONVERT_VOLUME_IN3": {
+    "message": "in³"
+  },
+  "WIDGET_CONVERT_VOLUME_FT3": {
+    "message": "ft³"
+  },
+  "WIDGET_CONVERT_VOLUME_YD3": {
+    "message": "yd³"
+  },
+  "WIDGET_CONVERT_VOLUME_GAL": {
+    "message": "gal"
+  },
+  "WIDGET_CONVERT_VOLUME_BBL": {
+    "message": "bbl"
+  },
+  "WIDGET_CONVERT_VOLUME_OZ": {
+    "message": "oz"
+  },
+  "WIDGET_CONVERT_VOLUME_HOP": {
+    "message": "hop"
+  },
+  "WIDGET_CONVERT_VOLUME_DOE": {
+    "message": "doe"
+  },
+  "WIDGET_CONVERT_VOLUME_MAL": {
+    "message": "mal"
+  },
+  "WIDGET_CONVERT_FUEL_EFFICIENCY": {
+    "message": "Fuel Efficiency"
+  },
+  "WIDGET_CONVERT_TEMPERATURE": {
+    "message": "Temperature"
+  },
+  "WIDGET_CONVERT_TEMPERATURE_C": {
+    "message": "°C"
+  },
+  "WIDGET_CONVERT_TEMPERATURE_F": {
+    "message": "°F"
+  },
+  "WIDGET_CONVERT_TEMPERATURE_K": {
+    "message": "K"
+  },
+  "WIDGET_CONVERT_TEMPERATURE_R": {
+    "message": "°R"
+  },
+  "WIDGET_CONVERT_SPEED": {
+    "message": "Speed"
+  },
+  "WIDGET_CONVERT_SPEED_KN": {
+    "message": "KN"
+  },
+  "WIDGET_CONVERT_SPEED_MACH": {
+    "message": "MACH"
+  },
+  "WIDGET_EXCHANGERATE_TITLE": {
+    "message": "換兌匯率"
+  },
+  "WIDGET_EXCHANGERATE_TAB_CALC": {
+    "message": "計算"
+  },
+  "WIDGET_EXCHANGERATE_TAB_RATES": {
+    "message": "匯率"
+  },
+  "WIDGET_EXCHANGERATE_TAB_RATES_TITLE": {
+    "message": "主要換兌匯率"
+  },
+  "WIDGET_EXCHANGERATE_REFRESH": {
+    "message": "更新"
+  },
+  "WIDGET_EXCHANGERATE_UPDATE": {
+    "message": "更新時間"
+  },
+  "WIDGET_EXCHANGERATE_SHOWMORE": {
+    "message": "更多 ..."
+  },
+  "WIDGET_FINANCE_TITLE": {
+    "message": "股市"
+  },
+  "WIDGET_FINANCE_SEARCH_PLACEHOLDER": {
+    "message": "輸入項目名稱或者股號來查詢"
+  },
+  "WIDGET_FINANCE_SEARCH_CLEAR": {
+    "message": "清除"
+  },
+  "WIDGET_FINANCE_REFRESH": {
+    "message": "重整"
+  },
+  "WIDGET_FINANCE_UPDATE": {
+    "message": "更新"
+  },
+  "WIDGET_FINANCE_RANK": {
+    "message": "Popular"
+  },
+  "WIDGET_FINANCE_FAVORITE": {
+    "message": "Favorite"
+  },
+  "WIDGET_FINANCE_FAVORITE_DESCRIPTION": {
+    "message": "您的最愛最多只能選五個"
+  },
+  "WIDGET_FINANCE_ADD_TO_FAVORITE": {
+    "message": "新增到最愛"
+  },
+  "WIDGET_FINANCE_REMOVE_FAVORITE": {
+    "message": "移除最愛"
+  },
+  "WIDGET_FINANCE_API_ERROR": {
+    "message": "請重新嘗試"
+  },
+  "WIDGET_FINANCE_SHOWMORE": {
+    "message": "更多 ..."
+  },
+  "WIDGET_KOREAN_SPELLCHECK_TITLE": {
+    "message": "韓語拼字確認"
+  },
+  "WIDGET_CALENDAR_MONDAY": {
+    "message": "一"
+  },
+  "WIDGET_CALENDAR_TUESDAY": {
+    "message": "二"
+  },
+  "WIDGET_CALENDAR_WEDNESDAY": {
+    "message": "三"
+  },
+  "WIDGET_CALENDAR_THURSDAY": {
+    "message": "四"
+  },
+  "WIDGET_CALENDAR_FRIDAY": {
+    "message": "五"
+  },
+  "WIDGET_CALENDAR_SATURDAY": {
+    "message": "六"
+  },
+  "WIDGET_CALENDAR_SUNDAY": {
+    "message": "日"
+  },
+  "WIDGET_CALENDAR_TODAY": {
+    "message": "今天"
+  },
+  "WIDGET_CALENDAR_YEAR": {
+    "message": ""
+  },
+  "WIDGET_CALENDAR_JAN": {
+    "message": "一月"
+  },
+  "WIDGET_CALENDAR_FEB": {
+    "message": "二月"
+  },
+  "WIDGET_CALENDAR_MAR": {
+    "message": "三月"
+  },
+  "WIDGET_CALENDAR_APR": {
+    "message": "四月"
+  },
+  "WIDGET_CALENDAR_MAY": {
+    "message": "五月"
+  },
+  "WIDGET_CALENDAR_JUN": {
+    "message": "六月"
+  },
+  "WIDGET_CALENDAR_JUL": {
+    "message": "七月"
+  },
+  "WIDGET_CALENDAR_AUG": {
+    "message": "八月"
+  },
+  "WIDGET_CALENDAR_SEP": {
+    "message": "九月"
+  },
+  "WIDGET_CALENDAR_OCT": {
+    "message": "十月"
+  },
+  "WIDGET_CALENDAR_NOV": {
+    "message": "十一月"
+  },
+  "WIDGET_CALENDAR_DEC": {
+    "message": "十二月"
+  }
+}
