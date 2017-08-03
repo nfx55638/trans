@@ -1,4 +1,4 @@
-# whale_trans
+# trans
 
 主要支持的項目:
 
@@ -19,7 +19,3 @@
 
 ```
 
-
-### 更多Whale的相關幫助頁:
-
- * [whale-developers](https://github.com/naver/whale-developers) 這是Nave Whale的官方開發者手冊
